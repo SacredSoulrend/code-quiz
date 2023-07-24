@@ -34,7 +34,8 @@ https://stackoverflow.com/questions/30922008/calculate-percentage-javascript
 https://thisinterestsme.com/calculate-percent-javascript/
 ```
 
-https://github.com/SacredSoulrend/code-quiz/blob/main/assets/pictures/Web%20capture_24-7-2023_172215_.jpeg
+![Web capture_24-7-2023_172215_](https://github.com/SacredSoulrend/code-quiz/assets/131583357/f87737e4-f8ec-474c-abc0-bc5c7d80c905)
+ure_24-7-2023_172215_.jpeg
 
 
 ## Link to the Website
