@@ -40,4 +40,4 @@ ure_24-7-2023_172215_.jpeg
 
 ## Link to the Website
 
-https://sacredsoulrend.github.io/javascript-password-generator/
+https://sacredsoulrend.github.io/code-quiz/
